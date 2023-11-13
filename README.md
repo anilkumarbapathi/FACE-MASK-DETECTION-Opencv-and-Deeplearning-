@@ -33,3 +33,6 @@ DATA FLOW DIAGRAM:
 
 ![image](https://github.com/anilkumarbapathi/FACE-MASK-DETECTION-Opencv-and-Deeplearning-/assets/150010512/39d56b56-b52e-41be-b2a3-ee1f9122740c)
 
+CONCLUSION:
+
+In conclusion, we developed a mask detection system that can detect whether people are wearing masks or not. We used a deep learning-based approach and achieved an accuracy of 98% on the test set. Our model can be an effective tool for enforcing mask-wearing in public places. We also deployed our model on a low- power device like the Raspberry Pi, which makes it easily accessible and affordable. Overall, our mask detection system has the potential to contribute to the ongoing efforts to prevent the spread of the COVID-19 virus.
