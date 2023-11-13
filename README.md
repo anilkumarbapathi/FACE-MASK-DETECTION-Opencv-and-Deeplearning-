@@ -1,5 +1,7 @@
 # FACE-MASK-DETECTION-Opencv-and-Deeplearning-
 
+Harnessing the power of machine learning, we developed a predictive model to identify individuals at risk of developing diabetes. By analyzing a comprehensive dataset of patient demographics and medical information, our model achieved remarkable accuracy, outperforming traditional methods. This breakthrough has the potential to revolutionize diabetes prevention, leading to improved patient outcomes and significant cost savings for the healthcare system.
+
 ABSTRACT:
 
 The significance of adhering to precautionary measures to curb the spread of the COVID-19 virus cannot be overstated. Wearing face masks is widely recognized as one of the most effective means of preventing the transmission of the virus. The mask detection system serves as a valuable tool in ensuring that individuals wear masks in public settings.
