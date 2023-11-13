@@ -14,3 +14,14 @@ We used a deep Neural Networks approach to train our mask detection model. We tr
 
 EVALUATION:
 We evaluated our model on a test set that consisted of 1,511 images, which were not used during the training phase. We used accuracy as our primary metric to evaluate the model's performance. Our model achieved an accuracy of 98%, which means that the model predicted the correct class for 98% of the test set images.
+
+USE CASE DIAGRAM:
+![image](https://github.com/anilkumarbapathi/FACE-MASK-DETECTION-Opencv-and-Deeplearning-/assets/150010512/50ae556b-187a-4095-9187-3db0cf3d75ef)
+
+
+CLASS DIAGRAM:
+![image](https://github.com/anilkumarbapathi/FACE-MASK-DETECTION-Opencv-and-Deeplearning-/assets/150010512/837904e6-87f9-414f-99e8-d5fc450f0f46)
+
+DATA FLOW DIAGRAM:
+![image](https://github.com/anilkumarbapathi/FACE-MASK-DETECTION-Opencv-and-Deeplearning-/assets/150010512/39d56b56-b52e-41be-b2a3-ee1f9122740c)
+
